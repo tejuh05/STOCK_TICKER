@@ -15,3 +15,4 @@
 * Can be extended for charts or alerts
 
 # OUTPUT :- 
+  <img width="1329" height="699" alt="Image" src="https://github.com/user-attachments/assets/76042392-14ef-48cd-9c4e-aaae2a3506cf" />
